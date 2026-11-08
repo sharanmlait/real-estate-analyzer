@@ -1,18 +1,18 @@
 {
-  "trained_at": "2026-11-07T06:19:57",
-  "rows": 2649,
-  "test_rows": 530,
+  "trained_at": "2026-11-08T06:25:26",
+  "rows": 2668,
+  "test_rows": 534,
   "best": "Random Forest",
   "results": {
     "Linear Regression (ridge)": {
-      "MAE_rupees": 1614601,
-      "MAPE_pct": 7.42,
-      "R2": 0.959
+      "MAE_rupees": 1690897,
+      "MAPE_pct": 7.47,
+      "R2": 0.954
     },
     "Random Forest": {
-      "MAE_rupees": 1389216,
-      "MAPE_pct": 6.2,
-      "R2": 0.965
+      "MAE_rupees": 1380295,
+      "MAPE_pct": 6.08,
+      "R2": 0.969
     }
   }
 }
